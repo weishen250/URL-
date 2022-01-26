@@ -1,4 +1,8 @@
 # URL提取器 从万行代码中精确匹配URL 简简单单拿下高危
+---
+### windows 直接下载exe文件：https://wwi.lanzout.com/ipnZnz9s0ob 
+---
+
 js / html /josn 
 
 中获取 
